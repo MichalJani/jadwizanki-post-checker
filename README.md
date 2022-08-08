@@ -1,0 +1,3 @@
+# JADWIZANKI POST CHECKER
+
+Deployed to AWS Lambda.
